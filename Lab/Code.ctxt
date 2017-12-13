@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Code
+comment1.params=
+comment1.target=Code()
+comment2.params=
+comment2.target=void\ print()
+comment3.params=r\ c
+comment3.target=void\ eraser(int,\ int)
+comment4.params=r\ c
+comment4.target=void\ erase(int,\ int)
+numComments=5

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=code2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ code2\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=code2()
+comment2.params=x\ y
+comment2.target=boolean\ isSafe(int,\ int)
+comment3.params=
+comment3.target=void\ printSolution()
+comment4.params=x\ y\ movei\ xMove\ yMove
+comment4.target=boolean\ solveKTUtil(int,\ int,\ int,\ int[],\ int[])
+comment5.params=
+comment5.target=boolean\ solveKnightTour()
+comment6.params=arg
+comment6.target=void\ main(java.lang.String[])
+numComments=7
